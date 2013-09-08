@@ -1,3 +1,6 @@
 [submodule "okhttp"]
 	path = okhttp
 	url = git@github.com:huahang/okhttp.git
+[submodule "chic-rootpom"]
+	path = chic-rootpom
+	url = git@github.com:huahang/chic-rootpom.git
