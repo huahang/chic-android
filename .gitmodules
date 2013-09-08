@@ -4,3 +4,6 @@
 [submodule "chic-rootpom"]
 	path = chic-rootpom
 	url = git@github.com:huahang/chic-rootpom.git
+[submodule "spongycastle"]
+	path = spongycastle
+	url = git@github.com:huahang/spongycastle.git
