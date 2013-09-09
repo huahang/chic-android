@@ -34,7 +34,7 @@
     <modules>
         <module>chic-rootpom</module>
         <module>okhttp</module>
-        <module>spongycastle</module>
+        <module>zxing</module>
     </modules>
 
 </project>
