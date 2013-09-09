@@ -7,3 +7,6 @@
 [submodule "zxing"]
 	path = zxing
 	url = git@github.com:huahang/zxing.git
+[submodule "retrofit"]
+	path = retrofit
+	url = git@github.com:huahang/retrofit.git

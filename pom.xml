@@ -33,8 +33,9 @@
 
     <modules>
         <module>chic-rootpom</module>
-        <module>okhttp</module>
         <module>zxing</module>
+        <module>okhttp</module>
+        <module>retrofit</module>
     </modules>
 
 </project>
