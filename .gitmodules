@@ -10,3 +10,6 @@
 [submodule "retrofit"]
 	path = retrofit
 	url = git@github.com:huahang/retrofit.git
+[submodule "picasso"]
+	path = picasso
+	url = git@github.com:huahang/picasso.git

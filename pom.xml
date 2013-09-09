@@ -36,6 +36,7 @@
         <module>zxing</module>
         <module>okhttp</module>
         <module>retrofit</module>
+        <module>picasso</module>
     </modules>
 
 </project>
