@@ -18,7 +18,7 @@
 	url = git@github.com:JakeWharton/ActionBarSherlock.git
 [submodule "Android-PullToRefresh"]
     path = Android-PullToRefresh
-    url = git@github.com:JakeWharton/Android-PullToRefresh.git
+    url = git@github.com:chrisbanes/Android-PullToRefresh.git
 [submodule "SlidingMenu"]
     path = SlidingMenu
-    url = git@github.com:JakeWharton/SlidingMenu.git
+    url = git@github.com:huahang/SlidingMenu.git
