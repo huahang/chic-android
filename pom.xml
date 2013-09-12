@@ -32,6 +32,9 @@
     </pluginRepositories>
 
     <modules>
+        <module>ActionBarSherlock</module>
+        <module>Android-PullToRefresh</module>
+        <module>SlidingMenu</module>
         <module>chic-rootpom</module>
         <module>zxing</module>
         <module>okhttp</module>
