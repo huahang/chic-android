@@ -13,3 +13,12 @@
 [submodule "picasso"]
 	path = picasso
 	url = git@github.com:huahang/picasso.git
+[submodule "ActionBarSherlock"]
+	path = ActionBarSherlock
+	url = git@github.com:JakeWharton/ActionBarSherlock.git
+[submodule "Android-PullToRefresh"]
+    path = Android-PullToRefresh
+    url = git@github.com:JakeWharton/Android-PullToRefresh.git
+[submodule "SlidingMenu"]
+    path = SlidingMenu
+    url = git@github.com:JakeWharton/SlidingMenu.git
